@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! 👋 I'm Somya Saxena
 
-<!--
-**somyasaxena1528/somyasaxena1528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in web development and programming. Here you'll find some of my projects and contributions.
 
-Here are some ideas to get you started:
+## 🌱 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: 
+  - HTML
+  - CSS
+  - Python
+  - JavaScript
+  - C++
+
+## 🔧 Tools & Technologies
+
+- **Frontend**: 
+  - HTML5
+  - CSS3
+  - JavaScript
+  - Bootstrap
+  
+- **Backend**: 
+  - Python (Flask, Django)
+  
+- **Databases**: 
+  - SQLite
+  - MySQL
+
