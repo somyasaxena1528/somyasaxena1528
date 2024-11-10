@@ -19,10 +19,5 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
   - JavaScript
   - Bootstrap
   
-- **Backend**: 
-  - Python (Flask, Django)
-  
-- **Databases**: 
-  - SQLite
-  - MySQL
+
 
